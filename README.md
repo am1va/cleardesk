@@ -4,7 +4,7 @@ A working cleaning-service CRM demo by Robert Paul Pelo, with contacts, a pipeli
 
 ## Hosting
 
-Publish this repository as **cleardesk** under the **am1va** GitHub account. Enable **Settings > Pages > Deploy from a branch > main > /docs > Save**. The expected address is https://am1va.github.io/cleardesk/; it is not live until GitHub reports a successful deployment.
+Live website: https://am1va.github.io/cleardesk/. The public repository is **am1va/cleardesk**, with **Settings > Pages > Deploy from a branch > main > /docs**. GitHub's successful deployment and actual desktop/mobile browser checks were verified on 2026-10-09.
 
 The public interface is in `docs/`. It uses the existing ClearDesk cloud API for durable, separate sample workspaces. The API URL appears in the HTML configuration, but the visitor-facing address can be GitHub Pages. No real local CRM records are included.
 
