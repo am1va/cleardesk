@@ -1,0 +1,6 @@
+verification/
+history/
+*.log
+*.pid
+*.sqlite*
+node_modules/
